@@ -1,21 +1,21 @@
 # Site wide configuration
 
-title: Academic Website of Nate Evans 
+title: Ethan Evans 
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 #theme: http://jekyllthemes.org/ # to employ these, replace the _include folder by forking one of these themes
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Nathaniel J Evans 
+  name: Ethan Evans
   avatar: headshot1.jpg
-  bio: "Bioinformatics Ph.D. Student"
-  email: evansna@ohsu.edu
-  twitter: Nathani52296572
-  linkedin: nate-evans-52882a55
-  github: nathanieljevans
-  orcid: 0000-0003-2245-8904
-  researchgate: Nathaniel_Evans10
+  bio: "Mechanical Engineer"
+  email:
+  twitter:
+  linkedin:
+  github:
+  orcid:
+  researchgate:
   mendeley: #username
   google:
     plus: #username
