@@ -1,5 +1,28 @@
-# nathanieljevans.github.io
+# This 
 ## Nate Evans personal website
+
+*italics* 
+
+**bold** 
+
+[link](google.com) 
+
+![img caption](img/path.jpg) 
+
+> Quotes 
+
+`fancy smancy` 
+
+```
+code block 
+
+```
+
+
+```bash 
+git clone yourmom
+
+```
 
 
 ## Bio 
