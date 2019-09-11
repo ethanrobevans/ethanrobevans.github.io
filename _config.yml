@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Ethan Evans 
+title: Ethan Evans, EIT 
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 #theme: http://jekyllthemes.org/ # to employ these, replace the _include folder by forking one of these themes
@@ -8,11 +8,11 @@ logo: # filename of a logo image that has been placed into your images directory
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Ethan Evans
-  avatar: headshot1.jpg
+  avatar: Headshot.jpg
   bio: "Mechanical Engineer"
-  email:
+  email: ethan.robert.evans@gmail.com
   twitter:
-  linkedin:
+  linkedin: ethan-evans-34333a14a/
   github:
   orcid:
   researchgate:
