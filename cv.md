@@ -48,15 +48,20 @@ __Product Design Engineer__
 Tosoh Quartz
 
 -Identify, Analyze and Design solutions to issues which arise in production.
+
 -Design and develop the needed processes to introduce new products and product lines.
+
 -Designed and rolled out lean manufacturing changes in order to optimize workflow, resource allocation and cost reductions.
 
 
 `2015-2018`
 **Gonzaga University**  
 __Teaching Assistant__
+
 -Organized and supervised Physics labs covering topics in Kinematics, Electro-Magnetics, Optics, and more
+
 -Assessed the level of student understanding by evaluating lab reports
+
 -Graded and worked with students to improve their understanding in Heat Transfer and Fluid Mechanics 
 
 ## Technical Skills 
