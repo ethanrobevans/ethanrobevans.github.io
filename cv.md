@@ -2,7 +2,7 @@
 layout: resume
 ---
 
-# Nathaniel J Evans
+# Ethan R Evans
 
 Address:`2709 SW 2nd Ave, Portland, OR 97201`  
 Telephone: `(360) 595-4218`   
