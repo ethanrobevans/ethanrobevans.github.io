@@ -18,10 +18,10 @@ Ethan is a Mechanical Product Engineer at Tosoh Quartz in Beaverton, OR. He has 
 ## Education
 
 `2014 - 2018`
-__Gonzaga University__
+__Gonzaga University__ <br/>
 B.S. Mechanical Engineering <br/>
 GPA: 3.76 <br/>
-`Magna Cum Laude`
+*Magna Cum Laude*
 
 # Clubs
 
