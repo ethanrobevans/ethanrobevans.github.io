@@ -19,7 +19,9 @@ Ethan is a Mechanical Product Engineer at Tosoh Quartz in Beaverton, OR. He has 
 
 `2014 - 2018`
 __Gonzaga University__
-B.S. Mechanical Engineering
+B.S. Mechanical Engineering <br/>
+GPA: 3.76 <br/>
+`Magna Cum Laude`
 
 # Clubs
 
@@ -33,7 +35,7 @@ __American Society of Mechanical Engineers (ASME)__
 
 ## Certifications
 
-`2018`
+`2018`  
 **Fundamentals of Engineering (FE) NCEES EIT**
 
 ## Publications
@@ -43,42 +45,39 @@ currently no publications
 
 ## Occupation
 
-`Dec, 2019 - Current`
-__Product Design Engineer__  
+`Dec, 2018 - Current`  
+__Product Design Engineer__   
 Tosoh Quartz
 
--Identify, Analyze and Design solutions to issues which arise in production.
-
--Design and develop the needed processes to introduce new products and product lines.
-
+-Identify, Analyze and Design solutions to issues which arise in production. <br/>
+-Design and develop the needed processes to introduce new products and product lines. <br/>
 -Designed and rolled out lean manufacturing changes in order to optimize workflow, resource allocation and cost reductions.
 
 
-`2015-2018`
-**Gonzaga University**  
-__Teaching Assistant__
+`Jan, 2015 - May, 2018`  
+__Teaching Assistant__ 
+Gonzaga University 
 
--Organized and supervised Physics labs covering topics in Kinematics, Electro-Magnetics, Optics, and more
-
--Assessed the level of student understanding by evaluating lab reports
-
+-Organized and supervised Physics labs covering topics in Kinematics, Electro-Magnetics, Optics, and more <br/>
+-Assessed the level of student understanding by evaluating lab reports <br/>
 -Graded and worked with students to improve their understanding in Heat Transfer and Fluid Mechanics 
 
 ## Technical Skills 
 
 ### Programming Languages 
 
-- Python (Libraries: numpy, pandas, Tensorflow?)
+- Python
 - C/C++
 - MATLAB 
 - MATHCAD
 - Octave
+- Julia
 
 ### Software
 
 - SolidWorks
 - ANSYS
--LabVIEW
+- LabVIEW
 
 ### Manufacturing
 
