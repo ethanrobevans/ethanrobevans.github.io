@@ -13,7 +13,7 @@ Personal Website: `https://ethanrobevans.github.io/`
 
 ## Currently
 
-Ethan is a Mechanical Product Engineer at Tosoh Quartz in Beaverton, OR. He has a passion for computationally aided mechanical design and enjoys using that to improve and innovate in his work.
+I am Mechanical Design Engineer with a passion for computer aided design. A former Gonzaga University graduate, I am working for Tosoh Quartz in Portland, OR developing high-precision glassblowing processes for quartzware in the semiconductor industry.
 
 ## Education
 
@@ -49,9 +49,10 @@ currently no publications
 __Product Design Engineer__   
 Tosoh Quartz
 
--Identify, Analyze and Design solutions to issues which arise in production. <br/>
--Design and develop the needed processes to introduce new products and product lines. <br/>
--Designed and rolled out lean manufacturing changes in order to optimize workflow, resource allocation and cost reductions.
+-Design and develop the necessary processes to introduce new products and product lines <br/>
+-Design and roll out lean manufacturing changes in order to maximize workflow and resource allocation <br/>
+-Develop continuous improvement processes specializing in large lathe glassblowing
+
 
 
 `Jan, 2015 - May, 2018`  
@@ -83,7 +84,7 @@ Gonzaga University
 
 - Competent machinist (CNC lathe & Mill)
 - Proficient with various forms of additive manufacturing
-- Experience with high tolerance precision glassblowing for the semiconductor industry
+- Experience with high precision glassblowing for the semiconductor industry
 
 
 <!-- ### Footer
