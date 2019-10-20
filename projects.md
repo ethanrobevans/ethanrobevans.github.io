@@ -22,3 +22,7 @@ The amount of kinetic energy in a fluid flow is cubically correlated to the velo
 The design we chose was a tri-blade horizontal axis turbine with a centrally mounted generator. The generator was a three phase motor designed by a company named BlueRobotics. The benefit of this was to be able to run the motor backwards while being completely submerged. The blades and housing were designed in several configurations and created using additive manufacturing for quick prototyping. Several different inlet configurations were tested to see if pre-aligning the incoming flow could allow an increased efficiency.
 
 ![ams](/images/Testing resized.jpg)
+
+## 3D Printer Design Development
+
+In development. More to come...
