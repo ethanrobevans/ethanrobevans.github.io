@@ -43,7 +43,7 @@ __American Society of Mechanical Engineers (ASME)__
 currently no publications
 
 
-## Occupation
+## Work Experience
 
 `Dec, 2018 - Current`  
 __Product Design Engineer__   
@@ -54,7 +54,6 @@ Tosoh Quartz
 -Develop continuous improvement processes specializing in large lathe glassblowing
 
 
-
 `Jan, 2015 - May, 2018`  
 __Teaching Assistant__ 
 Gonzaga University 
@@ -63,11 +62,19 @@ Gonzaga University
 -Assessed the level of student understanding by evaluating lab reports <br/>
 -Graded and worked with students to improve their understanding in Heat Transfer and Fluid Mechanics 
 
+
+`May, 2013 - Sep, 2017  *Summers`  
+__Modern Landscaper__ 
+Bear Creek Landscaping
+
+-Planned and implemented projects that improved the aesthetic appeal of yards and gardens <br/>
+-Collaborated with and sometimes managed a team of 6 landscapers in order to finish projects efficiently
+
 ## Technical Skills 
 
 ### Programming Languages 
 
-- Python
+- Python (Packages: numpy, pandas, matplotlib)
 - C/C++
 - MATLAB 
 - MATHCAD
@@ -89,6 +96,6 @@ Gonzaga University
 
 <!-- ### Footer
 
-Last updated: Sep 2019 -->
+Last updated: Oct 2019 -->
 
 
