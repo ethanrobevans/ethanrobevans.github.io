@@ -46,7 +46,7 @@ currently no publications
 ## Work Experience
 
 `Dec, 2018 - Current`  
-__Product Design Engineer__   
+__Product Design Engineer__  <br/>
 Tosoh Quartz
 
 -Design and develop the necessary processes to introduce new products and product lines <br/>
@@ -55,7 +55,7 @@ Tosoh Quartz
 
 
 `Jan, 2015 - May, 2018`  
-__Teaching Assistant__ 
+__Teaching Assistant__ <br/>
 Gonzaga University 
 
 -Organized and supervised Physics labs covering topics in Kinematics, Electro-Magnetics, Optics, and more <br/>
@@ -64,7 +64,7 @@ Gonzaga University
 
 
 `May, 2013 - Sep, 2017  *Summers`  
-__Modern Landscaper__ 
+__Modern Landscaper__ <br/>
 Bear Creek Landscaping
 
 -Planned and implemented projects that improved the aesthetic appeal of yards and gardens <br/>
@@ -79,7 +79,7 @@ Bear Creek Landscaping
 - MATLAB 
 - MATHCAD
 - Octave
-- Julia
+- Julia (SymPy Package)
 
 ### Software
 
@@ -90,7 +90,7 @@ Bear Creek Landscaping
 ### Manufacturing
 
 - Competent machinist (CNC lathe & Mill)
-- Proficient with various forms of additive manufacturing
+- Proficient with FDM and SLA additive Manufacturing
 - Experience with high precision glassblowing for the semiconductor industry
 
 
