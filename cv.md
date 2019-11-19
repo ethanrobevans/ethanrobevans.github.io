@@ -92,6 +92,7 @@ Bear Creek Landscaping
 - Competent machinist (CNC lathe & Mill)
 - Proficient with FDM and SLA additive Manufacturing
 - Experience with high precision glassblowing for the semiconductor industry
+- Experience with Lean Manufacturing principles and systems
 
 
 <!-- ### Footer
