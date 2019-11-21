@@ -45,13 +45,21 @@ currently no publications
 
 ## Work Experience
 
-`Dec, 2018 - Current`  
+`May, 2019 - Present`  
 __Product Design Engineer__  <br/>
 Tosoh Quartz
 
 -Design and develop the necessary processes to introduce new products and product lines <br/>
+-Develop continuous improvement processes specializing in large lathe glassblowing <br/>
+-Review engineering drawings and blueprints to produce products to customer specifications
+
+
+`Dec, 2018 - May, 2019`  
+__Industrial Engineer__  <br/>
+Tosoh Quartz
+
 -Design and roll out lean manufacturing changes in order to maximize workflow and resource allocation <br/>
--Develop continuous improvement processes specializing in large lathe glassblowing
+-Coordinate engineering, programming, and production projects <br/>
 
 
 `Jan, 2015 - May, 2018`  
