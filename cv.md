@@ -13,7 +13,7 @@ Personal Website: `https://ethanrobevans.github.io/`
 
 ## Currently
 
-I am Mechanical Design Engineer with a passion for computer aided design. A former Gonzaga University graduate, I am working for Tosoh Quartz in Portland, OR developing high-precision glassblowing processes for quartzware in the semiconductor industry.
+I am Mechanical Design Engineer with a passion for computational design. A Gonzaga University graduate, I am working for Tosoh Quartz in Portland, OR developing high-precision glassblowing processes for quartzware in the semiconductor industry.
 
 ## Education
 
@@ -21,7 +21,9 @@ I am Mechanical Design Engineer with a passion for computer aided design. A form
 __Gonzaga University__ <br/>
 B.S. Mechanical Engineering <br/>
 GPA: 3.76 <br/>
-*Magna Cum Laude*
+*Magna Cum Laude* <br/>
+
+Selected to spend a Semester at the University of Auckland in New Zealand
 
 # Clubs
 
@@ -49,17 +51,18 @@ currently no publications
 __Product Design Engineer__  <br/>
 Tosoh Quartz
 
--Design and develop the necessary processes to introduce new products and product lines <br/>
--Develop continuous improvement processes specializing in large lathe glassblowing <br/>
--Review engineering drawings and blueprints to produce products to customer specifications
+-Develop the necessary processes to introduce new products and product lines <br/>
+-Spearhead continuous improvement processes specializing in large bore lathe glassblowing <br/>
+-Review engineering drawings and blueprints to produce parts to customer specifications
 
 
 `Dec, 2018 - May, 2019`  
 __Industrial Engineer__  <br/>
 Tosoh Quartz
 
--Design and roll out lean manufacturing changes in order to maximize workflow and resource allocation <br/>
--Coordinate engineering, programming, and production projects <br/>
+-Designed and rolled out lean manufacturing changes in order to optimize workflow and resource allocation <br/>
+-Coordinated engineering, programming, and production projects <br/>
+-Led shop floor Kaizen teams focused on CNC cell efficiency and morale improvements
 
 
 `Jan, 2015 - May, 2018`  
@@ -76,7 +79,7 @@ __Modern Landscaper__ <br/>
 Bear Creek Landscaping
 
 -Planned and implemented projects that improved the aesthetic appeal of yards and gardens <br/>
--Collaborated with and sometimes managed a team of 6 landscapers in order to finish projects efficiently
+-Collaborated with and occasionally managed a team of 6 landscapers in order to finish projects efficiently
 
 ## Technical Skills 
 
@@ -98,7 +101,7 @@ Bear Creek Landscaping
 ### Manufacturing
 
 - Competent machinist (CNC lathe & Mill)
-- Proficient with FDM and SLA additive Manufacturing
+- Proficient with FDM and SLA additive manufacturing
 - Experience with high precision glassblowing for the semiconductor industry
 - Experience with Lean Manufacturing principles and systems
 
