@@ -1,5 +1,5 @@
 # This 
-## Nate Evans personal website
+## Ethan Evans personal website
 
 *italics* 
 
@@ -20,7 +20,7 @@ code block
 
 
 ```bash 
-git clone yourmom
+git clone yourface
 
 ```
 
