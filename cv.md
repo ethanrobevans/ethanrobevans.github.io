@@ -91,6 +91,7 @@ Bear Creek Landscaping
 - MATHCAD
 - Octave
 - Julia (SymPy Package)
+- Visual Basic (VBA)
 
 ### Software
 
