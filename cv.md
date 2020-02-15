@@ -95,6 +95,7 @@ Bear Creek Landscaping
 ### Software
 
 - SolidWorks
+- OnShape
 - ANSYS
 - LabVIEW
 
