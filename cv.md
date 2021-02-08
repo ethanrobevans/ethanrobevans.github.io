@@ -4,7 +4,7 @@ layout: resume
 
 # Ethan R Evans
 
-Address:`2709 SW 2nd Ave, Portland, OR 97201`  
+Address:`3223 SW 11th Ave, Portland, OR 97209`  
 Telephone: `(360) 595-4218`   
 Email: `ethan.robert.evans@gmail.com`    
 Personal Website: `https://ethanrobevans.github.io/`  
@@ -51,9 +51,12 @@ currently no publications
 __Product Design Engineer__  <br/>
 Tosoh Quartz
 
--Develop the necessary processes to introduce new products and product lines <br/>
--Spearhead continuous improvement processes specializing in large bore lathe glassblowing <br/>
--Review engineering drawings and blueprints to produce parts to customer specifications
+-Developed the necessary processes to introduce new products and product lines or to automated exisitng product lines <br/>
+-Spearheaded continuous improvement processes specializing in large bore lathe glassblowing <br/>
+-Reviewed engineering drawings and blueprints to produce parts to customer specifications <br/>
+-Designed facilities systems including acid waste treatment, DI water, cleanrooms, gas process piping and filtration systems <br/>
+-Oversaw $10 million factory renovation and expansion
+
 
 
 `Dec, 2018 - May, 2019`  
@@ -104,7 +107,7 @@ Bear Creek Landscaping
 
 - Competent machinist (CNC lathe & Mill)
 - Proficient with FDM and SLA additive manufacturing
-- Experience with high precision glassblowing for the semiconductor industry
+- Experience with high precision glassblowing and thermoforming for the semiconductor industry
 - Experience with Lean Manufacturing principles and systems
 
 
