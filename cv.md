@@ -11,11 +11,11 @@ Personal Website: `https://ethanrobevans.github.io/`
 
 *** 
 
-## Currently
+# Currently
 
 I am Mechanical Design Engineer with a passion for computational design. A Gonzaga University graduate, I am working for Tosoh Quartz in Portland, OR developing high-precision glassblowing processes for quartzware in the semiconductor industry.
 
-## Education
+# Education
 
 `2014 - 2018`
 __Gonzaga University__ <br/>
@@ -35,17 +35,17 @@ __Tau Beta Pi Engineering Honors Society__
 __American Society of Mechanical Engineers (ASME)__ 
 
 
-## Certifications
+# Certifications
 
 `2018`  
 **Fundamentals of Engineering (FE) NCEES EIT**
 
-## Publications
+# Publications
 
 currently no publications
 
 
-## Work Experience
+# Work Experience
 
 `May, 2019 - Present`  
 __Product Design Engineer__  <br/>
@@ -84,9 +84,9 @@ Bear Creek Landscaping
 -Planned and implemented projects that improved the aesthetic appeal of yards and gardens <br/>
 -Collaborated with and occasionally managed a team of 6 landscapers in order to finish projects efficiently
 
-## Technical Skills 
+# Technical Skills 
 
-### Programming Languages 
+## Programming Languages 
 
 - Python (Packages: numpy, pandas, matplotlib)
 - C/C++
@@ -96,14 +96,14 @@ Bear Creek Landscaping
 - Julia (SymPy Package)
 - Visual Basic (VBA)
 
-### Software
+## Software
 
 - SolidWorks
 - OnShape
 - ANSYS
 - LabVIEW
 
-### Manufacturing
+## Manufacturing
 
 - Competent machinist (CNC lathe & Mill)
 - Proficient with FDM and SLA additive manufacturing
@@ -113,6 +113,6 @@ Bear Creek Landscaping
 
 <!-- ### Footer
 
-Last updated: Oct 2019 -->
+Last updated: Feb 2021 -->
 
 
