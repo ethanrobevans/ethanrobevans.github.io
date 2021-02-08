@@ -12,10 +12,12 @@ Personal Website: `https://ethanrobevans.github.io/`
 *** 
 
 # Currently
+<br/>
 
 I am Mechanical Design Engineer with a passion for computational design. A Gonzaga University graduate, I am working for Tosoh Quartz in Portland, OR developing high-precision glassblowing processes for quartzware in the semiconductor industry.
 
 # Education
+<br/>
 
 `2014 - 2018`
 __Gonzaga University__ <br/>
@@ -26,6 +28,7 @@ GPA: 3.76 <br/>
 Selected to spend a Semester at the University of Auckland in New Zealand
 
 # Clubs
+<br/>
 
 __Gonzaga University Club Soccer__
 
@@ -36,11 +39,13 @@ __American Society of Mechanical Engineers (ASME)__
 
 
 # Certifications
+<br/>
 
 `2018`  
 **Fundamentals of Engineering (FE) NCEES EIT**
 
 # Publications
+<br/>
 
 currently no publications
 
