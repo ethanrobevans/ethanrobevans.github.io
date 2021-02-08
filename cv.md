@@ -51,7 +51,7 @@ currently no publications
 __Product Design Engineer__  <br/>
 Tosoh Quartz
 
--Developed the necessary processes to introduce new products and product lines or to automated exisitng product lines <br/>
+-Developed the necessary processes to introduce new products and product lines or to automate exisitng product lines <br/>
 -Spearheaded continuous improvement processes specializing in large bore lathe glassblowing <br/>
 -Reviewed engineering drawings and blueprints to produce parts to customer specifications <br/>
 -Designed facilities systems including acid waste treatment, DI water, cleanrooms, gas process piping and filtration systems <br/>
